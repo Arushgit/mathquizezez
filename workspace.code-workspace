@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Coding/ADV-C89-student"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mathquiz"
+	}
+}
